@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./projectm7/mysite"
+    ]
+}
